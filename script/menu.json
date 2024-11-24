@@ -1,0 +1,31 @@
+{
+  "jumlah": 1,
+  "food": {
+    "1": {
+      "nama": "Ceker Andalan",
+      "harga": 10000
+    },
+    "2": {
+      "nama": "Rica Ceker",
+      "harga": 12000
+    },
+    "3": {
+      "nama": "Seblak Ceker",
+      "harga": 12000
+    }
+  },
+  "drink": {
+    "4": {
+      "nama": "Es Teh",
+      "harga": 3000
+    },
+    "5": {
+      "nama": "Es Jeruk",
+      "harga": 4000
+    },
+    "6": {
+      "nama": "Es Kopi",
+      "harga": 4000
+    }
+  }
+}
